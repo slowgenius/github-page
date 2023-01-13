@@ -19,30 +19,25 @@ export const enNavbar = navbar([
           "4",
         ],
       },
-      {
-        text: "Banana",
-        icon: "edit",
-        prefix: "banana/",
-        children: [
-          {
-            text: "Banana 1",
-            icon: "edit",
-            link: "1",
-          },
-          {
-            text: "Banana 2",
-            icon: "edit",
-            link: "2",
-          },
-          "3",
-          "4",
-        ],
-      },
       { text: "Cherry", icon: "edit", link: "cherry" },
       { text: "Dragon Fruit", icon: "edit", link: "dragonfruit" },
       "tomato",
       "strawberry",
     ],
+  },
+  {
+    text: "Guitar",
+    icon: "edit",
+    prefix: "/posts/",
+    children: [
+      {
+        text: "",
+        icon: "edit",
+        prefix: "guitar/",
+        children: [
+          { text: "Flower dance", icon: "edit", link: "flower-dance" }
+        ],
+      }]
   },
   {
     text: "V2 Docs",

@@ -2,10 +2,10 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: Home
 heroImage: /logo.svg
-heroText: the name of your blog
-tagline: You can put your slogan here
+heroText: Space of Slowgenius
+tagline: Every day without dancing, is to live up to life.
 heroFullScreen: true
 projects:
   - icon: project
