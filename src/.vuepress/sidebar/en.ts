@@ -13,7 +13,7 @@ export const enSidebar = sidebar({
     {
       text: "Articles",
       icon: "note",
-      prefix: "posts/",
+      prefix: "guitar/",
       children: "structure",
     },
     "intro",
