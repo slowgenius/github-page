@@ -1,6 +1,10 @@
 ---
 icon: edit
 date: 2023-01-03
+category:
+  - Guitar
+tag:
+  - Guitar
 ---
 
 # FLOWER DANCE
